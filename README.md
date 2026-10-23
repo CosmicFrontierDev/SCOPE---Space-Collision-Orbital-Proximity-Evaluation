@@ -1,7 +1,5 @@
 # SCOPE — Space Collision & Orbital Proximity Evaluation System
 
-> **EDUCATIONAL SIMULATION.** SCOPE uses *simulated* data and a *simplified* 2D circular-orbit model to demonstrate Object-Oriented Programming in C++. It is **not** an operational collision-prediction system and its risk levels are **project-defined**, not official ISRO/NASA/ESA standards.
-
 Course project for **204ES – Object Oriented Programming** (2nd year, Semester 3, Electronics & Communication Engineering). Individual project.
 
 ---
