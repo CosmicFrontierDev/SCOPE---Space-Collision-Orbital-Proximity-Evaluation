@@ -1,6 +1,6 @@
 /*
  Scope - Space Collision & Orbital Proximity Evaluation System
- Compile: g++ -std=c++17 Scope_final.cpp -o Scope.exe
+ Compile: g++ -std=c++17 Scope_final.cpp -o scope
 */
 
 #include <iostream>
